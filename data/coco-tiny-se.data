@@ -1,0 +1,8 @@
+classes= 80
+train  = /home/minos3090/Dataset/MSCOCO/coco/trainvalno5k.txt
+valid  = /home/minos3090/Dataset/MSCOCO/coco/5k.txt
+#valid = data/coco_val_5k.list
+names = /home/minos3090/opencv/opencv-4.5.0/build/darknet/data/coco.names
+backup = /home/minos3090/opencv/opencv-4.5.0/build/darknet/backup/yolov4-tiny-se
+eval=coco
+
